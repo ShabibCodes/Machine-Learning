@@ -13,7 +13,7 @@
     - KNN (KD-trees due to reasonable number of features)
     - Linear regression
     - Decision Trees
-    - data:
+    - Data ensembling:
       - Random Forest
       - Bagging
       - Ada boost
